@@ -1,0 +1,92 @@
+=======Begin Spotify Log Entry=======
+Artist: Grimes=======Begin Concert Log Entry=======
+Name of musician: interpol
+Name of venue: undefined=======Begin Movie Log Entry=======
+Movie title: Kill Bill: Vol. 1
+Year of Release: 2003
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Kill Bill: Vol. 1
+Year of Release: 2003
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Spotify Log Entry=======
+Artist: Grimes=======Begin Spotify Log Entry=======
+Artist: Grimes=======Begin Movie Log Entry=======
+Movie title: Jackie Brown
+Year of Release: 1997
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Jackie Brown
+Year of Release: 1997
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Concert Log Entry=======
+Name of musician: silent servant
+Name of venue: undefined=======Begin Concert Log Entry=======
+Name of musician: years of denial
+Name of venue: undefined=======Begin Concert Log Entry=======
+Name of musician: ariel pink
+Name of venue: undefined=======Begin Movie Log Entry=======
+Movie title: Jackie Brown
+Year of Release: 1997
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Paris, Texas
+Year of Release: 1984
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Solaris
+Year of Release: 2002
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Solaris
+Year of Release: 2002
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Solaris
+Year of Release: 2002
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Paris, Texas
+Year of Release: 1984
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Paris, Texas
+Year of Release: 1984
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Movie Log Entry=======
+Movie title: Gummo
+Year of Release: 1997
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Spotify Log Entry=======
+Artist: DIIV=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Radiohead=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Alan Menken=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Cheap Trick=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Years Of Denial=======Begin Spotify Log Entry=======
+Artist: Flowchart=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Years Of Denial=======Begin Spotify Log Entry=======
+Artist: Mitch Hedberg=======Begin Spotify Log Entry=======
+Artist: Years Of Denial=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Ariel Pink=======Begin Spotify Log Entry=======
+Artist: Nine Inch Nails=======Begin Spotify Log Entry=======
+Artist: Years Of Denial=======Begin Spotify Log Entry=======
+Artist: Ariel Pink=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: James Brown=======Begin Spotify Log Entry=======
+Artist: Foxygen=======Begin Spotify Log Entry=======
+Artist: Years Of Denial=======Begin Spotify Log Entry=======
+Artist: Ariel Pink=======Begin Spotify Log Entry=======
+Artist: MDC=======Begin Spotify Log Entry=======
+Artist: MDC=======Begin Movie Log Entry=======
+Movie title: Paris, Texas
+Year of Release: 1984
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined=======Begin Concert Log Entry=======
+Name of musician: silent servant
+Name of venue: undefined
